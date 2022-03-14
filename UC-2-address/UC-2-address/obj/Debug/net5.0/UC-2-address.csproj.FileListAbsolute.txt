@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\bin\Debug\net5.0\UC-2-address.exe
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\bin\Debug\net5.0\UC-2-address.deps.json
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\bin\Debug\net5.0\UC-2-address.runtimeconfig.json
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\bin\Debug\net5.0\UC-2-address.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\bin\Debug\net5.0\UC-2-address.dll
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\bin\Debug\net5.0\UC-2-address.pdb
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.dll
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\refint\UC-2-address.dll
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.pdb
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\UC-2-address.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\day 10 UC- address\UC-2-address\UC-2-address\obj\Debug\net5.0\ref\UC-2-address.dll
